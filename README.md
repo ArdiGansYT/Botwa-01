@@ -35,4 +35,4 @@ Simple WhatsApp Bot
 ```
 
 # About 🖇️
-Youtube: Drawl Nag [`Link`](https://youtube.com/c/ArdiGansYT) <sosmed>
+Youtube: ArdiGans YT [`Link`](https://youtube.com/c/ArdiGansYT) <sosmed>
